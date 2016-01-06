@@ -12,6 +12,6 @@ This is simple website project for showing how to use Git and Github together
 
 ## How to contribute
 
-something, something more and more
+Please fork this repository and then issue Pull Requests for review.
 
 2016 Git.Training.
