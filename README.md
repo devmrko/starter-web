@@ -13,3 +13,5 @@ This is simple website project for showing how to use Git and Github together
 ## How to contribute
 
 something, something more and more
+
+2016 Git.Training.
