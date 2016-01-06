@@ -14,4 +14,4 @@ This is simple website project for showing how to use Git and Github together
 
 Please fork this repository and then issue Pull Requests for review.
 
-2016 Git.Training.
+2016 Git.Training. All rights reserved.
